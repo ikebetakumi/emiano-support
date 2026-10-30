@@ -1,4 +1,4 @@
-# EMIANO サポート
+<p align="center"><a href="https://github.com/litty-co-jp/emiano-support/issues/new/choose"><img src=".github/assets/support-banner.png" alt="EMIANO サポート（質問・不具合報告・機能要望）" width="100%"></a></p>
 
 EMIANO（エミアノ）ブランドのWordPressプラグインに関する共通の問い合わせ窓口です。
 
@@ -6,7 +6,7 @@ EMIANO（エミアノ）ブランドのWordPressプラグインに関する共�
 
 ## お問い合わせ方法
 
-[お問い合わせはこちら（質問・不具合報告・機能要望）](https://github.com/ikebetakumi/emiano-support/issues/new/choose)
+[お問い合わせはこちら（質問・不具合報告・機能要望）](https://github.com/litty-co-jp/emiano-support/issues/new/choose)
 
 リンク先で、お問い合わせ内容に合ったテンプレートを選択してください。
 
